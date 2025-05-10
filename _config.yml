@@ -4,3 +4,6 @@ plugins:
 
 title: DC Repairs
 description: Farm machinery repair specialist
+show_downloads: false
+github:
+  is_project_page: false
